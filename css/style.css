@@ -1070,7 +1070,7 @@ img {
   display: block;
   width: 100%;
   height: auto;
-  margin: 0;
+  margin-right: 2000px;
   padding: 0; }
   .horiscroll img {
     width: auto;
